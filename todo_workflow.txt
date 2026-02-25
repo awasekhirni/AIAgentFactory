@@ -79,3 +79,7 @@ Scalability & Performance
 
 ----Retail Domain  with Analytics Automation Workflow Agents 
 
+
+
+-- Insurance Claim Automation 
+-- House/Car & Health Care claim automation and verification process workflows 
